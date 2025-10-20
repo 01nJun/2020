@@ -85,7 +85,8 @@ kopis-crud-system/
 ```
 
 ### ERD
-![alt text](image.png)
+<img width="736" height="755" alt="image" src="https://github.com/user-attachments/assets/929ccaf0-2abb-4429-98e4-a4c70d335bd2" />
+
 
 
 ## 주요 페이지
