@@ -68,18 +68,18 @@
 kopis-crud-system/
 └── src/
     ├── api/
-    ├── components/         <-- 🆕 새로운 폴더!
-    │   ├── common/         <-- 🆕 공통으로 사용하는 컴포넌트
+    ├── components/         
+    │   ├── common/      
     │   │   ├── Card.js
     │   │   └── TabMenu.js
-    │   ├── community/      <-- 🆕 '잡담' 관련 컴포넌트
+    │   ├── community/     
     │   │   ├── CommunityFilter.js
     │   │   └── PopularPostList.js
-    │   └── performance/    <-- 🆕 '공연' 관련 컴포넌트
+    │   └── performance/   
     │       ├── PerformanceFilter.js
     │       └── PerformanceList.js
     ├── data/
-    ├── hooks/              <-- 여기는 그대로!
+    ├── hooks/            
     └── pages/
         ...
 ```
